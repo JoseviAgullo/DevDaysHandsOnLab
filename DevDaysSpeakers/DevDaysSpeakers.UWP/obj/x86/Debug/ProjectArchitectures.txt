@@ -1,0 +1,1 @@
+C:\tmp\Start\DevDaysSpeakers\DevDaysSpeakers.UWP\DevDaysSpeakers.UWP.csproj;x86
